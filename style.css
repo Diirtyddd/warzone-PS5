@@ -8,8 +8,6 @@ body, html {
 
 .hero {
   background: url('assets/background.jpg') no-repeat center center/cover;
-  height: 100vh;
-  position: relative;
 }
 
 .overlay {
